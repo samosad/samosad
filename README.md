@@ -6,6 +6,6 @@
 Senior frontend engineer, building for the web since 2013. I work close to the product surface —
 the part users actually touch — and on the tooling that lets a small team ship it fast.
 
-At the moment I am at [Truv](https://mytruv.com/), where I own the web and desktop platforms of
-MyTruv, a consumer finance product: the app itself, its parity with the native mobile apps, and
+At the moment I am at [Truv](https://money.checkr.com/), where I own the web and desktop platforms of
+Money by Checkr, a consumer finance product: the app itself, its parity with the native mobile apps, and
 the AI-assisted workflows the team builds with.
